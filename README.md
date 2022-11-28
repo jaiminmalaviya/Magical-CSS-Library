@@ -1,1 +1,1 @@
-# magicsl-css-library
+# magical-css-library
